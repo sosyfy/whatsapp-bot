@@ -1,0 +1,6 @@
+2022/08/13-23:29:00.494 6acc Reusing MANIFEST C:\Users\user\Documents\bots\new-bot\_IGNORE_session\Default\Local Storage\leveldb/MANIFEST-000001
+2022/08/13-23:29:00.495 6acc Recovering log #3
+2022/08/13-23:29:00.495 6acc Reusing old log C:\Users\user\Documents\bots\new-bot\_IGNORE_session\Default\Local Storage\leveldb/000003.log 
+2022/08/14-03:53:01.575 65f8 Level-0 table #5: started
+2022/08/14-03:53:01.573 65f8 Level-0 table #5: 13864 bytes OK
+2022/08/14-03:53:01.575 65f8 Delete type=0 #3

@@ -1,0 +1,23 @@
+{
+  "name": "new-bot",
+  "version": "1.0.0",
+  "description": "bot test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sospeter",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.44.3",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "fs": "^0.0.1-security",
+    "jsdom": "^20.0.0",
+    "moment-timezone": "^0.5.34",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7",
+    "qs": "^6.11.0",
+    "request": "^2.88.2"
+  }
+}
